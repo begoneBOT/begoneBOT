@@ -14,7 +14,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/107975312?v=4&s=320" alt="Munch's avatar" width="150" />
 
-### Quant · Machine Learning · AI
+### AI · Quant · Machine Learning 
 
 <p>
 Drawn to the place where markets meet models: quantitative finance, machine learning and AI.

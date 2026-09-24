@@ -38,7 +38,13 @@ I'm exploring how data, statistics and code can find signal in noise, and I'll s
 
 ## 🧑‍💻 About Me
 
-Coming soon.
+I'm a Computer Science student at the University of Arizona who got into code by building websites and now wants to point it at harder problems. What pulls me in most is the overlap of data, markets and models, and I'm working my way deeper into quantitative finance, machine learning and AI.
+
+- 🎓 **Studying Computer Science** at the University of Arizona, graduating in 2027.
+- 📊 **Working with data in Python:** I've built programs that pull numbers out of CSV files, measure digit frequencies and test whether a dataset follows Benford's Law.
+- 🧠 **Heading into quant, ML and AI:** learning the statistics and tooling behind models that find signal in noisy data.
+- 🌐 **Shipping for real people:** I've designed and built websites for small businesses and for my own portfolios.
+- 📸 **Beyond the screen:** I'm a freelance photographer and drone pilot, and I speak English and Farsi.
 
 ---
 

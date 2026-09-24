@@ -39,12 +39,7 @@ I'm exploring how data, statistics and code can find signal in noise, and I'll s
 
 ## 🧑‍💻 About Me
 
-I like making things for the web by hand — writing the markup, styling and scripts myself and shipping them as simple static sites. My public repositories are early experiments, and I'm using them as a base to build on.
-
-- 🌐 **Static sites, written by hand** — pages built with plain HTML, CSS and vanilla JavaScript, no frameworks.
-- 🚀 **Shipped with GitHub Pages** — both of my public projects are set up to deploy straight from their `main` branch.
-- 📈 **Live data in the browser** — fetching exchange-rate data from a REST API and turning it into auto-refreshing prices.
-- 🗺️ **Planning visually** — mapping out project plans as flowcharts in diagrams.net before building.
+Coming soon.
 
 ---
 

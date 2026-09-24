@@ -27,8 +27,8 @@ and use them to try out ideas — from a personal links hub to a live currency a
 <p>
 <a href="https://github.com/begoneBOT?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 <!-- LINK-SLOT:arxiv --><img src="https://img.shields.io/badge/arXiv-coming%20soon-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv (link coming soon)" />
-<!-- LINK-SLOT:orcid --><img src="https://img.shields.io/badge/ORCID-coming%20soon-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID (link coming soon)" />
-<!-- LINK-SLOT:huggingface --><img src="https://img.shields.io/badge/Hugging%20Face-coming%20soon-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face (link coming soon)" />
+<!-- LINK-SLOT:orcid --><a href="https://orcid.org/0009-0007-1360-4961"><img src="https://img.shields.io/badge/ORCID-0009--0007--1360--4961-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID 0009-0007-1360-4961" /></a>
+<!-- LINK-SLOT:huggingface --><a href="https://huggingface.co/begonebot"><img src="https://img.shields.io/badge/Hugging%20Face-begonebot-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face profile" /></a>
 <!-- LINK-SLOT:pypi --><img src="https://img.shields.io/badge/PyPI-coming%20soon-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI (link coming soon)" />
 <!-- LINK-SLOT:hf-spaces --><img src="https://img.shields.io/badge/HF%20Spaces-demo%20coming%20soon-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Spaces demo (link coming soon)" />
 <!-- LINK-SLOT:devto --><img src="https://img.shields.io/badge/DEV-coming%20soon-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community (link coming soon)" />
@@ -133,7 +133,7 @@ I share my projects publicly so others can look at the code, learn from it or bu
 <p>
 <a href="https://github.com/begoneBOT?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 <!-- LINK-SLOT:hf-spaces --><img src="https://img.shields.io/badge/HF%20Spaces-demo%20coming%20soon-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Spaces demo (link coming soon)" />
-<!-- LINK-SLOT:huggingface --><img src="https://img.shields.io/badge/Hugging%20Face-coming%20soon-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face (link coming soon)" />
+<!-- LINK-SLOT:huggingface --><a href="https://huggingface.co/begonebot"><img src="https://img.shields.io/badge/Hugging%20Face-begonebot-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face profile" /></a>
 <!-- LINK-SLOT:pypi --><img src="https://img.shields.io/badge/PyPI-coming%20soon-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI (link coming soon)" />
 </p>
 
@@ -141,7 +141,7 @@ I share my projects publicly so others can look at the code, learn from it or bu
 
 <p>
 <!-- LINK-SLOT:arxiv --><img src="https://img.shields.io/badge/arXiv-coming%20soon-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv (link coming soon)" />
-<!-- LINK-SLOT:orcid --><img src="https://img.shields.io/badge/ORCID-coming%20soon-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID (link coming soon)" />
+<!-- LINK-SLOT:orcid --><a href="https://orcid.org/0009-0007-1360-4961"><img src="https://img.shields.io/badge/ORCID-0009--0007--1360--4961-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID 0009-0007-1360-4961" /></a>
 <!-- LINK-SLOT:devto --><img src="https://img.shields.io/badge/DEV-coming%20soon-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community (link coming soon)" />
 </p>
 

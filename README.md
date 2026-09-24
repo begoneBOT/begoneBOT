@@ -52,36 +52,7 @@ I like making things for the web by hand — writing the markup, styling and scr
 
 ## 🚀 Featured Projects
 
-### 🍪 [munchyy_v0.005](https://github.com/begoneBOT/munchyy_v0.005)
-
-<a href="https://github.com/begoneBOT/munchyy_v0.005"><img src="https://img.shields.io/badge/Repo-munchyy__v0.005-181717?style=flat-square&logo=github&logoColor=white" alt="munchyy_v0.005 repository" /></a>
-<a href="https://begonebot.github.io/munchyy_v0.005/"><img src="https://img.shields.io/badge/Live%20site-GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Live site on GitHub Pages" /></a>
-
-An early version of my personal site: a dark, minimal homepage plus a few supporting pages, all in one static repository.
-
-**Problem it addresses:** keeping the links to everything I make and post in one place, instead of scattered across platforms.
-
-- 🏠 Homepage with About / Projects / Shop navigation and an animated, glowing session timer
-- 🔗 A “links” hub page that groups social and project links, with a toggle to show or hide them
-- 🗺️ An embedded diagrams.net flowchart of the site plan
-- 📣 A community advocacy page with ways to sign petitions, share news and contact representatives
-
-<sub>**Built with:** HTML · CSS · JavaScript · diagrams.net viewer · GitHub Pages</sub>
-
-### 📊 [munchai_v0](https://github.com/begoneBOT/munchai_v0)
-
-<a href="https://github.com/begoneBOT/munchai_v0"><img src="https://img.shields.io/badge/Repo-munchai__v0-181717?style=flat-square&logo=github&logoColor=white" alt="munchai_v0 repository" /></a>
-
-A first portfolio shell, with a live price tracker for gold, silver and currencies.
-
-**Problem it addresses:** checking gold, silver, USD, JPY and Iranian toman prices side by side, without jumping between sites.
-
-- 🗂️ Portfolio layout with sections for IT, architecture, product and photography projects
-- 💱 Live price page that fetches exchange rates from the Fixer.io API
-- ⏱️ Refreshes every second and converts the raw rates into per-ounce and cross-currency values
-- 🔤 Monospace Inconsolata styling via Google Fonts
-
-<sub>**Built with:** HTML · CSS · JavaScript (Fetch API) · Fixer.io API · Google Fonts · GitHub Pages</sub>
+Projects coming soon. I'll add them here as I build them.
 
 ---
 

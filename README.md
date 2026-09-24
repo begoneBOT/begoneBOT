@@ -121,9 +121,3 @@ If you like what I'm building, you can support it here:
 </p>
 
 </div>
-
----
-
-<div align="center">
-<sub>Made with ☕ by <a href="https://github.com/begoneBOT">Munch (@begoneBOT)</a></sub>
-</div>

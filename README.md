@@ -76,7 +76,6 @@ I share my projects publicly so others can look at the code, learn from it or bu
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjEzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTAuNSIgZmlsbD0iI0ZGRkZGRiI%2BYXdzPC90ZXh0PjxwYXRoIGQ9Ik00IDE2LjVjNC41IDIuOCAxMSAyLjggMTUuNSAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjk5MDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTE3LjIgMTUuMmwyLjYgMS4xLTEgMi41IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjk5MDAiIHN0cm9rZS13aWR0aD0iMS44IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4K" alt="AWS" />
-<img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
 </p>
 
 **Creative tools**

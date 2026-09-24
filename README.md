@@ -15,13 +15,11 @@
 
 <img src="https://avatars.githubusercontent.com/u/107975312?v=4&s=320" alt="Munch's avatar" width="150" />
 
-### Web tinkerer building small, hand-coded sites and browser experiments
-
-<sub><i>“absolute class”</i></sub>
+### Quant · Machine Learning · AI
 
 <p>
-I build lightweight websites with plain HTML, CSS and JavaScript, publish them with GitHub Pages,
-and use them to try out ideas — from a personal links hub to a live currency and metals price page.
+Drawn to the place where markets meet models: quantitative finance, machine learning and AI.
+I'm exploring how data, statistics and code can find signal in noise, and I'll share experiments here as they take shape.
 </p>
 
 <p>

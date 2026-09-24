@@ -20,7 +20,7 @@
 <sub><i>“absolute class”</i></sub>
 
 <p>
-I build lightweight websites with plain HTML, CSS and JavaScript, publish them with GitHub Pages,<br />
+I build lightweight websites with plain HTML, CSS and JavaScript, publish them with GitHub Pages,
 and use them to try out ideas — from a personal links hub to a live currency and metals price page.
 </p>
 

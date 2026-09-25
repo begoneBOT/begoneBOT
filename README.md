@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# Hi, I'm a****a 👋
+# Hi, I'm a*sh*a 👋
 
 <img src="https://avatars.githubusercontent.com/u/107975312?v=4&s=320" alt="Munch's avatar" width="150" />
 
